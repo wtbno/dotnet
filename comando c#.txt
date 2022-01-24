@@ -1,0 +1,354 @@
+Microsoft Windows [versão 10.0.22000.434]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\bruno>cd d:
+D:\
+
+C:\Users\bruno>ls
+'ls' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\bruno>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 4A22-A0F6
+
+ Pasta de C:\Users\bruno
+
+21/01/2022  19:11    <DIR>          .
+03/11/2021  11:20    <DIR>          ..
+21/12/2021  16:02    <DIR>          .android
+20/01/2022  18:44             3.098 .bash_history
+31/10/2021  22:37    <DIR>          .config
+01/11/2021  11:45                69 .dbshell
+21/01/2022  19:28    <DIR>          .dotnet
+21/10/2021  20:39                54 .gitconfig
+06/01/2022  11:45                20 .lesshst
+13/12/2021  17:29                74 .minttyrc
+01/11/2021  11:06                 0 .mongorc.js
+25/11/2021  17:11               114 .node_repl_history
+21/01/2022  19:11    <DIR>          .omnisharp
+01/11/2021  12:27    <DIR>          .rest-client
+06/01/2022  15:06    <DIR>          .ssh
+14/01/2022  16:38    <DIR>          .templateengine
+10/11/2021  15:51    <DIR>          .VirtualBox
+28/10/2021  18:44    <DIR>          .vscode
+18/01/2022  20:23               121 .yarnrc
+23/10/2021  16:04    <DIR>          3D Objects
+03/11/2021  11:32    <DIR>          Contacts
+06/01/2022  17:48    <DIR>          Desktop
+14/01/2022  16:13    <DIR>          Documents
+21/10/2021  08:42    <DIR>          Download
+03/11/2021  11:32    <DIR>          Favorites
+30/10/2021  16:43    <DIR>          IdeaProjects
+03/11/2021  11:32    <DIR>          Links
+03/11/2021  11:32    <DIR>          Music
+28/12/2021  23:54    <DIR>          OneDrive
+11/12/2021  19:22    <DIR>          Pictures
+03/11/2021  11:32    <DIR>          Saved Games
+03/11/2021  11:32    <DIR>          Searches
+15/01/2022  16:13    <DIR>          source
+11/12/2021  19:45               421 Untitled-1.txt
+28/12/2021  15:29    <DIR>          Videos
+               9 arquivo(s)          3.971 bytes
+              26 pasta(s)   33.180.385.280 bytes disponíveis
+
+C:\Users\bruno>cd c#
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\bruno>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 4A22-A0F6
+
+ Pasta de C:\Users\bruno
+
+21/01/2022  19:11    <DIR>          .
+03/11/2021  11:20    <DIR>          ..
+21/12/2021  16:02    <DIR>          .android
+20/01/2022  18:44             3.098 .bash_history
+31/10/2021  22:37    <DIR>          .config
+01/11/2021  11:45                69 .dbshell
+21/01/2022  19:28    <DIR>          .dotnet
+21/10/2021  20:39                54 .gitconfig
+06/01/2022  11:45                20 .lesshst
+13/12/2021  17:29                74 .minttyrc
+01/11/2021  11:06                 0 .mongorc.js
+25/11/2021  17:11               114 .node_repl_history
+21/01/2022  19:11    <DIR>          .omnisharp
+01/11/2021  12:27    <DIR>          .rest-client
+06/01/2022  15:06    <DIR>          .ssh
+14/01/2022  16:38    <DIR>          .templateengine
+10/11/2021  15:51    <DIR>          .VirtualBox
+28/10/2021  18:44    <DIR>          .vscode
+18/01/2022  20:23               121 .yarnrc
+23/10/2021  16:04    <DIR>          3D Objects
+03/11/2021  11:32    <DIR>          Contacts
+06/01/2022  17:48    <DIR>          Desktop
+14/01/2022  16:13    <DIR>          Documents
+21/10/2021  08:42    <DIR>          Download
+03/11/2021  11:32    <DIR>          Favorites
+30/10/2021  16:43    <DIR>          IdeaProjects
+03/11/2021  11:32    <DIR>          Links
+03/11/2021  11:32    <DIR>          Music
+28/12/2021  23:54    <DIR>          OneDrive
+11/12/2021  19:22    <DIR>          Pictures
+03/11/2021  11:32    <DIR>          Saved Games
+03/11/2021  11:32    <DIR>          Searches
+15/01/2022  16:13    <DIR>          source
+11/12/2021  19:45               421 Untitled-1.txt
+28/12/2021  15:29    <DIR>          Videos
+               9 arquivo(s)          3.971 bytes
+              26 pasta(s)   33.179.672.576 bytes disponíveis
+
+C:\Users\bruno>cd d:
+D:\
+
+C:\Users\bruno>cd d:
+D:\
+
+C:\Users\bruno>d:
+
+D:\>dir
+ O volume na unidade D é HD
+ O Número de Série do Volume é 8255-2EB6
+
+ Pasta de D:\
+
+20/01/2022  18:29            35.324 3x4.jpeg
+21/01/2022  12:33    <DIR>          Arquivos de programas
+21/01/2022  19:30    <DIR>          c#
+04/12/2021  16:46            31.040 CAPA ANHANGUERA.docx
+17/01/2022  14:20    <DIR>          Curso Udemy
+10/11/2021  14:47    <DIR>          CV ADS
+10/11/2021  19:11    <DIR>          Dashboard App
+20/01/2022  17:44            23.262 dig.jpg
+21/01/2022  19:27       142.115.888 dotnet-sdk-5.0.404-win-x86.exe
+21/01/2022  19:27    <DIR>          Downloads torrent
+17/01/2022  19:16    <DIR>          Jogos HD
+04/12/2021  17:02           232.296 PROJETO INTEGRADO II.pdf
+10/01/2022  12:13           372.071 Relatório de erros ao gerar código de barras facilitado para efetuar pagamento.docx
+17/12/2021  13:21           190.302 Requerimento.pdf
+20/01/2022  18:40           719.284 SCANNER DOC.pdf
+06/01/2022  15:08                40 token git.txt
+11/01/2022  15:13       154.946.924 unknown_2022.01.11-15.06.mp407/01/2022  15:22    <DIR>          WindowsApps
+              10 arquivo(s)    298.666.431 bytes
+               8 pasta(s)   182.326.759.424 bytes disponíveis
+
+D:\>c#
+'c#' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+D:\>cd c#
+
+D:\c#>dotnet --version
+6.0.101
+
+D:\c#>dotnet --help
+SDK do .NET (6.0.101)
+Uso: dotnet [runtime-options] [path-to-application] [arguments]
+
+Execute um aplicativo do .NET.
+
+runtime-options:
+  --additionalprobingpath <path>   Caminho contendo a política de investigação e os assemblies a investigar.
+  --additional-deps <path>         Caminho para o arquivo deps.json adicional.
+  --depsfile                       Caminho para o arquivo <application>.deps.json.
+  --fx-version <version>           Versão do Shared Framework instalada a ser usada para a execução do aplicativo.
+  --roll-forward <setting>         Role para frente para a versão de estrutura (LatestPatch, Minor, LatestMinor, Major, LatestMajor, Disable).
+  --runtimeconfig                  Caminho para o arquivo <application>. runtimeconfig.json.
+
+path-to-application:
+  O caminho para um arquivo .dll de aplicativo a ser executado.
+
+Uso: dotnet [sdk-options] [command] [command-options] [arguments]
+
+Execute um comando do SDK do .NET.
+
+sdk-options:
+  -d|--diagnostics  Habilitar saída de diagnóstico.
+  -h|--help         Mostrar a ajuda da linha de comando.
+  --info            Exiba informações do .NET.
+  --list-runtimes   Exiba os runtimes instalados.
+  --list-sdks       Exiba os SDKs instalados.
+  --version         Exiba a versão do SDK do .NET em uso.
+
+Comandos do SDK:
+  add               Adicionar um pacote ou uma referência a um projeto do .NET.
+  build             Criar um projeto do .NET.
+  build-server      Interagir com servidores iniciados por um build.
+  clean             Limpar as saídas do build de um projeto do .NET.
+  format            Aplicar preferências de estilo a um projeto ou solução.
+  help              Mostrar a ajuda da linha de comando.
+  list              Listar as referências de um projeto do .NET.
+  msbuild           Executar comandos do MSBuild (Microsoft Build Engine).
+  new               Criar um novo projeto ou arquivo do .NET.
+  nuget             Fornece comandos adicionais do NuGet.
+  pack              Criar um pacote do NuGet.
+  publish           Publicar um projeto do .NET para implantação.
+  remove            Remover um pacote ou uma referência de um projeto do .NET.
+  restore           Restaurar as dependências especificadas em um projeto do .NET.
+  run               Criar e executar uma saída de projeto do .NET.
+  sdk               Gerencie a instalação do SDK do .NET.
+  sln               Modificar os arquivos da solução do Visual Studio.
+  store             Armazenar os assemblies especificados no repositório de pacotes do runtime.
+  test              Executar testes de unidade usando o executor de testes especificado em um projeto do .NET.
+  tool              Instalar ou gerenciar ferramentas que ampliam a experiência do .NET.
+  vstest            Executar comandos do VSTest (Microsoft Test Engine).
+  workload          Gerenciar as cargas de trabalho opcionais.
+
+Comandos adicionais de ferramentas em pacote:
+  dev-certs         Crie e gerencie certificados de desenvolvimento.
+  fsi               Iniciar F# Interativo / executar scripts do F#.
+  sql-cache         Ferramentas de linha de comando do cache do SQL Server.
+  user-secrets      Gerencie segredos do usuário de desenvolvimento.
+  watch             Inicie um observador de arquivo que executa um comando quando os arquivos são alterados.
+
+Execute 'dotnet [command] --help' para obter mais informações sobre um comando.
+
+D:\c#>dotnet --info
+SDK do .NET (refletindo qualquer global.json):
+ Version:   6.0.101
+ Commit:    ef49f6213a
+
+Ambiente de runtime:
+ OS Name:     Windows
+ OS Version:  10.0.22000
+ OS Platform: Windows
+ RID:         win10-x64
+ Base Path:   C:\Program Files\dotnet\sdk\6.0.101\
+
+Host (useful for support):
+  Version: 6.0.1
+  Commit:  3a25a7f1cc
+
+.NET SDKs installed:
+  6.0.101 [C:\Program Files\dotnet\sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 6.0.1 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 6.0.1 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.WindowsDesktop.App 6.0.1 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+
+To install additional .NET runtimes or SDKs:
+  https://aka.ms/dotnet-download
+
+D:\c#>dotnet new
+
+Bem-vindo(a) ao .NET 6.0.
+---------------------
+Versão do SDK: 6.0.101
+
+Telemetria
+---------
+As ferramentas do .NET coletam dados de uso para ajudar-nos a aprimorar sua experiência. Eles são coletados pela Microsoft e compartilhados com a comunidade. Você pode recusar a telemetria definindo a variável de ambiente DOTNET_CLI_TELEMETRY_OPTOUT como '1' ou 'true' usando seu shell favorito.
+
+Leia mais sobre a telemetria das Ferramentas da CLI do .NET: https://aka.ms/dotnet-cli-telemetry
+
+----------------
+Um certificado de desenvolvimento HTTPS ASP.NET Core foi instalado.
+Para confiar no certificado, execute 'dotnet dev-certs https --trust' (somente Windows e macOS).
+Saiba mais sobre HTTPS: https://aka.ms/dotnet-https
+----------------
+Escreva seu primeiro aplicativo: https://aka.ms/dotnet-hello-world
+Descubra o que há de novo: https://aka.ms/dotnet-whats-new
+Explore a documentação: https://aka.ms/dotnet-docs
+Relate problemas e encontre a fonte no GitHub: https://github.com/dotnet/core
+Use 'dotnet --help' para ver os comandos disponíveis ou visite: https://aka.ms/dotnet-cli
+--------------------------------------------------------------------------------------
+O comando 'dotnet new' criar um projeto .NET baseado em um modelo.
+
+Os modelos comuns são:
+Nome do modelo      Nome Curto    Idioma      Tags
+------------------  ------------  ----------  -------------------
+Aplicativo do C...  console       [C#],F#,VB  Common/Console
+Aplicativo do W...  winforms      [C#],VB     Common/WinForms
+Aplicativo WPF      wpf           [C#],VB     Common/WPF
+ASP.NET Core We...  webapp,razor  [C#]        Web/MVC/Razor Pages
+Biblioteca de C...  classlib      [C#],F#,VB  Common/Library
+Blazor Server App   blazorserver  [C#]        Web/Blazor
+
+Um exemplo seria:
+   dotnet new console
+
+Exibir opções de modelos com:
+   dotnet new console -h
+Exibir todos os modelos instalados com:
+   dotnet new --list
+Exibir modelos disponíveis no NuGet.org com:
+   dotnet new web --search
+
+
+D:\c#>dotnet new --list --tag web
+Esses modelos correspondem à sua entrada: tag='web'
+
+Nome do modelo      Nome Curto      Idioma   Tags
+------------------  --------------  -------  --------------------------
+ASP.NET Core Empty  web             [C#],F#  Web/Empty
+ASP.NET Core gR...  grpc            [C#]     Web/gRPC
+ASP.NET Core We...  webapi          [C#],F#  Web/WebAPI
+ASP.NET Core We...  webapp,razor    [C#]     Web/MVC/Razor Pages
+ASP.NET Core We...  mvc             [C#],F#  Web/MVC
+ASP.NET Core wi...  angular         [C#]     Web/MVC/SPA
+ASP.NET Core wi...  react           [C#]     Web/MVC/SPA
+Blazor Server App   blazorserver    [C#]     Web/Blazor
+Blazor WebAssem...  blazorwasm      [C#]     Web/Blazor/WebAssembly/PWA
+MVC ViewImports     viewimports     [C#]     Web/ASP.NET
+MVC ViewStart       viewstart       [C#]     Web/ASP.NET
+Protocol Buffer...  proto                    Web/gRPC
+Razor Class Lib...  razorclasslib   [C#]     Web/Razor/Library
+Razor Component     razorcomponent  [C#]     Web/ASP.NET
+Razor Page          page            [C#]     Web/ASP.NET
+Worker Service      worker          [C#],F#  Common/Worker/Web
+
+
+D:\c#>dotnet new console -o --myApp
+O modelo "Aplicativo do Console" foi criado com êxito.
+
+Processando ações pós-criação...
+Executando 'dotnet restore' em D:\c#\--myApp\--myApp.csproj...
+  Determinando os projetos a serem restaurados...
+  D:\c#\--myApp\--myApp.csproj restaurado (em 62 ms).
+A restauração foi bem-sucedida.
+
+
+D:\c#>cd myApp
+O sistema não pode encontrar o caminho especificado.
+
+D:\c#>dir
+ O volume na unidade D é HD
+ O Número de Série do Volume é 8255-2EB6
+
+ Pasta de D:\c#
+
+21/01/2022  19:43    <DIR>          .
+21/01/2022  19:43    <DIR>          --myApp
+21/01/2022  19:31                32 Writeline('Hello world').cs
+               1 arquivo(s)             32 bytes
+               2 pasta(s)   182.122.926.080 bytes disponíveis
+
+D:\c#>cd myApp
+O sistema não pode encontrar o caminho especificado.
+
+D:\c#>cd myApp
+
+D:\c#\myApp>dotnet run
+Hello, World!
+
+D:\c#\myApp>dotnet build
+Microsoft(R) Build Engine versão 17.0.0+c9eb9dd64 para .NET
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+  --myApp -> D:\c#\myApp\bin\Debug\net6.0\--myApp.dll
+
+Compilação com êxito.
+    0 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:00.77
+
+D:\c#\myApp>dotnet restore
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+
+D:\c#\myApp>
